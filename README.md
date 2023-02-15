@@ -2,4 +2,4 @@
 Another Fucking Open Source
 MC DATAPACK
 
-this mod is made to craft uncraftable things go to 
+this datapack is made to craft uncraftable things go to Releases to see what can you craft with this datapack
