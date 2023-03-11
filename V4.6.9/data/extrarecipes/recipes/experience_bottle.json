@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:splash_potion"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    }
+  ],
+  "result": {
+    "item": "minecraft:experience_bottle"
+  }
+}
